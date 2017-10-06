@@ -1,0 +1,19 @@
+{
+    "manifest_version": 2,
+    "name": "Nebula - Your information dust in the cloud.",
+    "version": "0.0.1",
+    "icons":{
+    },
+    "author": "Meet Mangukiya",
+    "background": {
+        "scripts": ["inforgan.js"],
+        "persistant": true
+    },
+    "permissions":[
+        "storage",
+        "contextMenus"
+    ],
+    "browser_action":{
+
+    }
+}
